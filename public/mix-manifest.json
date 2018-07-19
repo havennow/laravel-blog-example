@@ -1,0 +1,9 @@
+{
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/css/app.css": "/css/app.css",
+    "/js/posts-edit.js": "/js/posts-edit.js",
+    "/js/posts-create.js": "/js/posts-create.js",
+    "/js/posts.js": "/js/posts.js",
+    "/js/manifest.js": "/js/manifest.js"
+}
